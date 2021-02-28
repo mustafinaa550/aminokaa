@@ -1,1 +1,1 @@
-# aminokaas
+# aminokaa
